@@ -1,2 +1,2 @@
-cangku: CONFIG-CLIENT-repo
+cangku: ${name}
 profile: dev
